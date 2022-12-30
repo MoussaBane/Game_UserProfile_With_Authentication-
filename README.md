@@ -26,7 +26,7 @@
 
 7) Bu değişiklikten sonra “npm start” komutuyla Metro’yu tekrar çalıştırınız.
 
-QR kodu bilgisayarınızla aynı internete bağlı olan telefonunuzdaki (Real Device) Expo Go uygulamasına okutarak uygulamayı başlatınız. (Eğer uygulamayı QR kod ile değil de sanal cihazdan [Genymotion, Android Studio Emulator gibi] başlatmak istiyorsanız “a” tuşu ile uygulamayı sanal cihazdan başlatabilirsiniz.)
+   QR kodu bilgisayarınızla aynı internete bağlı olan telefonunuzdaki (Real Device) Expo Go uygulamasına okutarak uygulamayı başlatınız. (Eğer uygulamayı QR kod ile      değil de sanal cihazdan [Genymotion, Android Studio Emulator gibi] başlatmak istiyorsanız “a” tuşu ile uygulamayı sanal cihazdan başlatabilirsiniz.)
 
 # Muhtemel problemler:
 

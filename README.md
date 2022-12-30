@@ -31,4 +31,4 @@ Sanal cihazınızda Google Play Services hatası ile karşılaşabilirsiniz. Bu 
 Sadece front-end kısmında geliştirmeler yapacaksanız (database bağlantısına ihtiyacınız yoksa) proje içerisindeki StyleSheet ve componentleri, oluşturduğunuz yeni boş projeye entegre edip düzenlemeler yapabilirsiniz.
 
 # # Not2: 
-Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz: https://www.youtube.com/watch?v=CobhS6wdUeQ&ab_channel=ReactNativeDersleri
+Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz: https://www.youtube.com/watch?v=CobhS6wdUeQ&ab_channel=ReactNativeDersleri 

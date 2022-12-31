@@ -46,7 +46,6 @@ Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz
 
 # Programın Dosyalarının Dizilimi:
 
-#
    ![Ekran görüntüsü_20221231_024900](https://user-images.githubusercontent.com/75726215/210118744-3eb605c7-feaf-4a22-a5af-4898118b1691.png)
    ![Ekran görüntüsü_20221231_024829](https://user-images.githubusercontent.com/75726215/210118763-02a2bb8f-d911-423e-9aa0-9ebe0d90deef.png)
    ![Ekran görüntüsü_20221231_024523](https://user-images.githubusercontent.com/75726215/210118774-4d53e21a-9cde-4e94-8b16-d2c7effa62ae.png)

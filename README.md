@@ -42,9 +42,11 @@ Sadece front-end kısmında geliştirmeler yapacaksanız (database bağlantısı
 # Not2: 
 Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz: https://www.youtube.com/watch?v=CobhS6wdUeQ&ab_channel=ReactNativeDersleri 
 
+#
 
 # Programın Dosyalarının Dizilimi:
 
+#
    ![Ekran görüntüsü_20221231_024900](https://user-images.githubusercontent.com/75726215/210118744-3eb605c7-feaf-4a22-a5af-4898118b1691.png)
    ![Ekran görüntüsü_20221231_024829](https://user-images.githubusercontent.com/75726215/210118763-02a2bb8f-d911-423e-9aa0-9ebe0d90deef.png)
    ![Ekran görüntüsü_20221231_024523](https://user-images.githubusercontent.com/75726215/210118774-4d53e21a-9cde-4e94-8b16-d2c7effa62ae.png)
@@ -53,8 +55,11 @@ Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz
    ![Ekran görüntüsü_20221231_024733](https://user-images.githubusercontent.com/75726215/210118785-e99ba990-c2cc-42ba-8d97-3286b80e63d7.png)
    ![Ekran görüntüsü_20221231_024759](https://user-images.githubusercontent.com/75726215/210118788-884dd3ad-bfb3-41aa-b48b-fde2d177a753.png)
 
+#
 
 # Programın Çalıştırılmış Hali:
+
+#
 
    ![Ekran görüntüsü_20221231_011345](https://user-images.githubusercontent.com/75726215/210118890-0696a17a-0ffb-4fae-826f-465ede7bbb84.png)
    ![Ekran görüntüsü_20221231_011441](https://user-images.githubusercontent.com/75726215/210118896-05762407-28f9-4362-a298-fdf57cb39ddd.png)

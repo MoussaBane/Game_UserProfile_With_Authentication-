@@ -58,18 +58,22 @@ Backend bağlantısının nasıl yapıldığını bu videodan öğrenebilirsiniz
 
 # Programın Çalıştırılmış Hali:
 
-#
 
    ![Ekran görüntüsü_20221231_011345](https://user-images.githubusercontent.com/75726215/210118890-0696a17a-0ffb-4fae-826f-465ede7bbb84.png)
    ![Ekran görüntüsü_20221231_011441](https://user-images.githubusercontent.com/75726215/210118896-05762407-28f9-4362-a298-fdf57cb39ddd.png)
+   
    ![Ekran görüntüsü_20221231_011600](https://user-images.githubusercontent.com/75726215/210118898-a23db3f6-e4df-41aa-8614-b308c417f11c.png)
    ![Ekran görüntüsü_20221231_011656](https://user-images.githubusercontent.com/75726215/210118901-49cc80f8-69b8-4b81-84e7-48d563658788.png)
+   
    ![Ekran görüntüsü_20221231_011719](https://user-images.githubusercontent.com/75726215/210118903-36426135-d920-47d0-a5e6-292ae5df243b.png)
    ![Ekran görüntüsü_20221231_011835](https://user-images.githubusercontent.com/75726215/210118906-05bc1af7-9e92-4d0f-ac8c-4f26dc4045a5.png)
+   
    ![Ekran görüntüsü_20221231_011915](https://user-images.githubusercontent.com/75726215/210118908-6a78fca5-0d77-4c39-8871-8d18bd1f1f0d.png)
    ![Ekran görüntüsü_20221231_011931](https://user-images.githubusercontent.com/75726215/210118909-67caca6e-3f47-4eea-83d1-acd9b4429ad7.png)
+   
    ![Ekran görüntüsü_20221231_012050](https://user-images.githubusercontent.com/75726215/210118910-f0be9e37-7139-46ad-b148-7ce120e500d9.png)
    ![Ekran görüntüsü_20221231_012557](https://user-images.githubusercontent.com/75726215/210118913-27a09d25-e4e1-4715-b049-316496ae8172.png)
+   
    ![Ekran görüntüsü_20221231_012711](https://user-images.githubusercontent.com/75726215/210118916-713c3d51-213a-4df2-ad21-5e0a864e27cd.png)
 
 
